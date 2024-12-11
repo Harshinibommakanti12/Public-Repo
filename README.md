@@ -1,2 +1,3 @@
 # Public-Repo
-For Training it is going to be public repository
+For Training 
+this is a read me file
